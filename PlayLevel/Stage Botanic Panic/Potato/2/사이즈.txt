@@ -1,0 +1,16 @@
+Attack Before
+3개 // 473*353
+
+Attack 사이즈 (attack before이 끝나면 반복)
+16개 // 526*405
+
+Die
+6개 // 308 * 439
+
+Bullet 01
+8개 // 138 * 8
+
+Bullet 02
+4개 // 132*142
+
+
